@@ -1,7 +1,7 @@
 {
     "name": "employee-tracker",
     "version": "1.0.0",
-    "description": "![Code badge](https://img.shields.io/github/languages/top/warrenp11/employee-tracker) \r ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)",
+    "description": "![Code badge](https://img.shields.io/github/languages/top/DarnellDavy/employee-tracker-DD) \r ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)",
     "main": "server.js",
     "scripts": {
       "start": "node server.js",
@@ -9,15 +9,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/warrenp11/employee-tracker.git"
+      "url": "git+https://github.com/DarnellDavy/employee-tracker-DD.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/warrenp11/employee-tracker/issues"
+      "url": "https://github.com/DarnellDavy/employee-tracker-DD/issues"
     },
-    "homepage": "https://github.com/warrenp11/employee-tracker#readme",
+    "homepage": "https://github.com/DarnellDavy/employee-tracker-DD#readme",
     "dependencies": {
       "console.table": "^0.10.0",
       "dotenv": "^10.0.0",

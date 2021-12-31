@@ -1,6 +1,6 @@
 # Employee Tracker
 
-![Code badge](https://img.shields.io/github/languages/top/warrenp11/employee-tracker) 
+![Code badge](https://img.shields.io/github/languages/top/DarnellDavy/employee-tracker-DD) 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Table of Contents
