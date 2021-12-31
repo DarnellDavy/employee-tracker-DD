@@ -82,10 +82,11 @@ When you're ready to run the application, from the root directory enter either o
 I had a lot of fun with this assignment. Although challenging I feel as though I'm making strides to improving as a developer with every project. That said, this project is not operating at 100% efficiency. There are a few bugs that I would still need to fix, however, for the sake of time I've submitted what I have and intend to fix said bugs when time permits. I have some slight issues with the functionality of the Inquirer prompt; the main prompt won't close when the user selects to use the "Add" option, whether it's adding a department, role, or employee. Again, I intend to revist this project and fix the bug issue at some point in time.
 
 ## Questions
-If you have any questions about this project contact me directly at warrenp11@gmail.com. 
+If you have any questions about this project contact me directly at darnelldavy@gmail.com. 
   
 Visit this project's repository at https://github.com/DarnellDavy/employee-tracker-DD
 
 View more of my projects at https://github.com/DarnellDavy
 
 ## License
+Licensed under the [MIT](./license.txt/) license.
