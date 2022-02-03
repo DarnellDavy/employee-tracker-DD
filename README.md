@@ -65,9 +65,6 @@ When you're ready to run the application, from the root directory enter either o
            node server.js
            npm start
 
-
-## Tests
-
 ## Credits
 [Inquirer](https://www.npmjs.com/package/inquirer)
 
